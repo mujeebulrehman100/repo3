@@ -1,0 +1,75 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    box-shadow: 1px 0.5px ;
+}
+.color {
+    color: #054C73;
+}
+/* .hero{
+    max-width: 1200px;
+    margin: 0 auto;
+
+} */
+.hero-section {
+    margin-bottom: 35px;
+    min-height: 80vh;
+    background-image: url("assets/scandinavian-interior-mockup-wall-decal-background\ 1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+.icondiv img{
+    font-size: 18px;
+    
+}
+.card-content{
+    padding-left: 25px;
+
+
+}
+.card-content h2 {
+font-size: 20px;
+font-weight: 500;
+
+}
+.card{
+        max-width: 1200px;
+    margin: 0 auto;
+
+}
+.row{
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.col{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img-container{
+    border-radius: 10px;
+}
+.img-container img{
+    width: 355px;
+    height: 414px;
+}
+.beauty-sec{
+    min-height: 600px;
+    width: 100%;
+
+}
+.beu-sec-1{
+    
+}
