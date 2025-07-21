@@ -66,10 +66,18 @@ font-weight: 500;
     height: 414px;
 }
 .beauty-sec{
+   background-image: url("./assets/Rectangle\ 49.png");
+    min-height: 1200px;
+    width: 100%;
+
+}
+
+
+.beauty-sec-1{
     min-height: 600px;
     width: 100%;
 
 }
-.beu-sec-1{
+.beu-sec-2{
     
 }
